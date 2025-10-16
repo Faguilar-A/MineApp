@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color base de tierra -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#8B7355" />
+        </shape>
+    </item>
+
+    <!-- Patrón de textura de tierra -->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="1dp"
+                android:color="#7A6345"
+                android:dashWidth="4dp"
+                android:dashGap="8dp" />
+        </shape>
+    </item>
+
+    <!-- Puntos de textura -->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="1dp"
+                android:color="#9C8465"
+                android:dashWidth="2dp"
+                android:dashGap="12dp" />
+        </shape>
+    </item>
+</layer-list>
