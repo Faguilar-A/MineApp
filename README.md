@@ -106,7 +106,7 @@ Estas son algunas de las Funcionalidades  Principales del proyecto.
 - [@Faguilar](https://github.com/Faguilar-A)
 
 **Samuel Aguilar**
-- [@Saguilar](https://github.com/Faguilar-A)
+- [@Saguilar](https://github.com/sam-aguilar143)
 
 
 
