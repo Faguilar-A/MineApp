@@ -88,10 +88,10 @@ Estas son algunas de las Funcionalidades  Principales del proyecto.
 **Descargar la APK**
 
 
-  **1.** Ve a la carpeta `app/build/outputs/apk/debug/`
-
-  **2.** Descarga `app-debug.apk`
-
+  **1.** Descarga [app-debug.zip](https://github.com/user-attachments/files/22954480/app-debug.zip)
+ 
+  **2.** Comprime la `app-debug.apk`
+  
   **3.** Instala en tu dispositivo Android
 
   **4.** Credenciales de prueba:
